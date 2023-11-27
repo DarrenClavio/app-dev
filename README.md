@@ -1,7 +1,7 @@
 # app-dev
 # About Favorite Series
 ## Series Name: Digimon
-### Genre: Game, Cards, Monster< Collecting, Battling, Adventure, Sci-fi, Horror, Shonen
+### Genre: Game, Cards, Monster, Collecting, Battling, Adventure, Sci-fi, Horror, Shonen
 --------------------------------------------
 - Favorite Series
 - Digimon Tamers
